@@ -1,0 +1,24 @@
+﻿  main.cpp
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\P6\DragForceGenerator.h(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\P6\DragForceGenerator.h(10,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(103,45): warning C4305: '+=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(106,45): warning C4305: '-=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(109,44): warning C4305: '+=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(113,44): warning C4305: '-=': truncation from 'double' to 'float'
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(146,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(146,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(210,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(210,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(250,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(252,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\main.cpp(392,7): warning C4101: 'shaderCount': unreferenced local variable
+  Generating code
+  0 of 2641 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GraphicsSetup.vcxproj -> E:\VSC\Y2T3 PHYSX\PHYSX-Phase-2\x64\Release\GraphicsSetup.exe
